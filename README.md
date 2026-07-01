@@ -6,3 +6,5 @@
  we can write and edit any things
  need to rew ritegit 
 
+ now everthing is corrected
+
